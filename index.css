@@ -1,0 +1,27 @@
+<css>
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2016/10/21/20/45/texture-1759179_1280.jpg')
+}
+h1 {
+  text-align: center;
+  background-color: rgb(250, 200, 230);
+}
+ 
+table, td, th 
+  {
+  border: 1px  grey;
+  }
+ 
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  }
+ 
+  th {
+  height: 30px;
+    background-color: rgb(250, 200, 230);
+   }
+  td {
+  text-align: center;
+  }
+</css>
